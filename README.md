@@ -1,1 +1,1 @@
-# Python-Exapmles
+This repository contains different examples Python's code.
