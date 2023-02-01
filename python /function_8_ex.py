@@ -9,4 +9,4 @@ def return_sum_of_char_in_str(str):
 sentence = return_sum_of_char_in_str("Bla, bla, bla")
 print(sentence)
 print(type(sentence))
-print(len("Bla, bla, bla"))
+print(len("Bla, bla7, bla"))

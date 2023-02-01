@@ -1,6 +1,6 @@
 # napisa funkcję, która qypisuje listę od tyłu
 
-def list_read_backwards(sth)-> None:
+def list_read_backwards(sth):
     for i in sth:
         return sth[::-1]
 
