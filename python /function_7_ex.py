@@ -9,7 +9,3 @@ def add_odd_numbers_in_list(numbers):
     return counter
 
 
-result = add_odd_numbers_in_list([1, 2, 3, 6, 7])
-result_2 = add_odd_numbers_in_list([11, 13, 2])
-print(result)
-print(result_2)
