@@ -7,8 +7,3 @@ def sum_of_list_even_numbers(numbers):
         if i % 2 == 0:
             counter += i
     return counter
-    
-    
-result = sum_of_list_even_numbers([3, 6, 8])
-print(result)   
-print( sum_of_list_even_numbers([2, 3,4]))
