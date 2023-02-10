@@ -3,7 +3,3 @@
 def double_number(a): 
     return a * 2
 
-
-print(double_number(2))
-print(double_number(8))
-print(double_number(33))
