@@ -9,7 +9,5 @@ from function_4_ex import count_letter_a_in_sentence
 
 def test_count_letter_a_in_sentecne(word, expected):
    
-   
-  
     result = count_letter_a_in_sentence(word)
     assert result == expected
