@@ -7,7 +7,3 @@ def sum_of_list_numbers(numbers):
     return counter
     
         
-sum_numbers = sum_of_list_numbers([1,2,3,4])
-sum_of_numbers =sum_of_list_numbers([33, 55, 77])
-print(sum_of_numbers)
-print(sum_numbers)
