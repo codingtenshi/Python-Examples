@@ -8,7 +8,4 @@ def return_sum_of_int_in_char(sentence):
     return counter
 
 
-sentence = return_sum_of_int_in_char(("Bl5a, bla7git status, bla"))
-sentence2 = return_sum_of_int_in_char("223hga552")
-print(sentence2)
-print(sentence)
+
